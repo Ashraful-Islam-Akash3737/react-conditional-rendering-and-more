@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import  { Component } from 'react'
 import HomePage from './HomePage'
 import LogInPage from './LogInPage'
 

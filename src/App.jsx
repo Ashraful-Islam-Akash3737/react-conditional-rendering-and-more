@@ -1,7 +1,8 @@
 
 import './App.css'
 
-import ConditionalRendering from './Components'
+import ConditionalRendering from './ConditionalRendering'
+import EventHandlerClass from './Event-Handler-Class/Index'
 
 function App() {
   
@@ -11,6 +12,7 @@ function App() {
       
       <h1>Vite + React</h1>
       <ConditionalRendering></ConditionalRendering>
+      <EventHandlerClass></EventHandlerClass>
       
     </>
   )
