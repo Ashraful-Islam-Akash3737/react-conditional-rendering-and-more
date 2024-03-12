@@ -3,7 +3,7 @@
 export default function LogInPage() {
   return (
     <div>
-        LogInPage
+        This is LogInPage 
     </div>
   )
 }
